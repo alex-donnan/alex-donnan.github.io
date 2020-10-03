@@ -1,3 +1,7 @@
+html {
+	background-color: linear-gradient(#bf8fef, #000000);
+}
+
 body {
 	font-family: Arial, sans-serif;
 	text-align: center;
